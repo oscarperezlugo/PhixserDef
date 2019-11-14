@@ -1,0 +1,12 @@
+﻿/ref:"C:\Users\Oscar\Desktop\PhixserDef\PhixserDef.UWP\obj\x64\Release\ilc\intermediate\PreMergeILTransformed"
+/ref:"C:\Users\Oscar\.nuget\packages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.1.8\tools\SharedLibrary\ret\AnalysisILToc"
+/ref:"C:\Users\Oscar\Desktop\PhixserDef\PhixserDef.UWP\obj\x64\Release\ilc\intermediate\PreMergeILTransformed"
+/ref:"C:\Users\Oscar\Desktop\PhixserDef\PhixserDef.UWP\obj\x64\Release\ilc\in\\"
+/ref:"C:\Users\Oscar\.nuget\packages\runtime.win10-x64.microsoft.net.native.compiler\2.1.8\tools\x64\ilc\lib\Private\\"
+/ref:"C:\Users\Oscar\Desktop\PhixserDef\PhixserDef.UWP\obj\x64\Release\ilc\in"
+/ref:"C:\Users\Oscar\Desktop\PhixserDef\PhixserDef.UWP\obj\x64\Release\ilc\in\WinMetadata"
+/ca:System.Private.CoreLib
+/cscpath:"C:\Users\Oscar\.nuget\packages\microsoft.net.native.compiler\2.1.8\tools\csc"
+/out:"C:\Users\Oscar\Desktop\PhixserDef\PhixserDef.UWP\obj\x64\Release\ilc\intermediate\SgGenerated\\"
+/int:"C:\Users\Oscar\Desktop\PhixserDef\PhixserDef.UWP\obj\x64\Release\ilc\intermediate\PhixserDef.UWP.Sg"
+"@C:\Users\Oscar\Desktop\PhixserDef\PhixserDef.UWP\obj\x64\Release\ilc\intermediate\PhixserDef.UWP.Sg\ComputedSerializationInput.txt"

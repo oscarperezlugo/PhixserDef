@@ -1,0 +1,13 @@
+C:\Users\Oscar\Desktop\PhixserDef\PhixserDef\bin\Debug\netstandard2.0\PhixserDef.deps.json
+C:\Users\Oscar\Desktop\PhixserDef\PhixserDef\bin\Debug\netstandard2.0\PhixserDef.dll
+C:\Users\Oscar\Desktop\PhixserDef\PhixserDef\bin\Debug\netstandard2.0\PhixserDef.pdb
+C:\Users\Oscar\Desktop\PhixserDef\PhixserDef\obj\Debug\netstandard2.0\PhixserDef.csprojAssemblyReference.cache
+C:\Users\Oscar\Desktop\PhixserDef\PhixserDef\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Oscar\Desktop\PhixserDef\PhixserDef\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Oscar\Desktop\PhixserDef\PhixserDef\obj\Debug\netstandard2.0\PhixserDef.AssemblyInfoInputs.cache
+C:\Users\Oscar\Desktop\PhixserDef\PhixserDef\obj\Debug\netstandard2.0\PhixserDef.AssemblyInfo.cs
+C:\Users\Oscar\Desktop\PhixserDef\PhixserDef\obj\Debug\netstandard2.0\PhixserDef.dll
+C:\Users\Oscar\Desktop\PhixserDef\PhixserDef\obj\Debug\netstandard2.0\PhixserDef.pdb
+C:\Users\Oscar\Desktop\PhixserDef\PhixserDef\obj\Debug\netstandard2.0\Form.xaml.g.cs
+C:\Users\Oscar\Desktop\PhixserDef\PhixserDef\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\Oscar\Desktop\PhixserDef\PhixserDef\obj\Debug\netstandard2.0\XamlC.stamp
