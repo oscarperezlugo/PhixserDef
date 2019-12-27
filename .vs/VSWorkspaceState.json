@@ -1,10 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\PhixserDef",
-    "\\PhixserDef.Android\\Properties",
-    "\\PhixserDef.iOS"
+    "\\PhixserDef"
   ],
-  "SelectedNode": "\\PhixserDef\\Form.xaml.cs",
+  "SelectedNode": "\\PhixserDef\\Page1.xaml",
   "PreviewInSolutionExplorer": false
 }

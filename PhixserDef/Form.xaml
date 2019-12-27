@@ -26,7 +26,7 @@
                 <Button Text="&#xf5a0;" FontSize="Large" FontFamily="{StaticResource FontAwesomeSolid}" TextColor="White" Grid.Row="1" Grid.Column="1" VerticalOptions="Center" HorizontalOptions="Center" Clicked="MapClicked" BackgroundColor="Red"/>
                 <Button Text="&#xf005;" FontSize="Large" FontFamily="{StaticResource FontAwesomeSolid}" TextColor="White" Grid.Row="1" Grid.Column="2" VerticalOptions="Center" HorizontalOptions="Center" Clicked="ReviewClicked" BackgroundColor="Red"/>
                 <Button Text="&#xf274;" FontSize="Large" FontFamily="{StaticResource FontAwesomeSolid}" TextColor="White" Grid.Row="1" Grid.Column="3" VerticalOptions="Center" HorizontalOptions="Center" Clicked="FormClicked" BackgroundColor="Red"/>
-                <Button Text="&#xf232;" FontSize="Large" FontFamily="{StaticResource FontAwesomeBrands}" TextColor="White" Grid.Row="1" Grid.Column="4" VerticalOptions="Center" HorizontalOptions="Center" Clicked="OpenWhatsApp" BackgroundColor="Red"/>
+                <Button Text="&#xf086;" FontSize="Large" FontFamily="{StaticResource FontAwesomeSolid}" TextColor="White" Grid.Row="1" Grid.Column="4" VerticalOptions="Center" HorizontalOptions="Center" Clicked="OpenWhatsApp" BackgroundColor="Red"/>
                 <Button Text="&#xf2a0;" FontSize="Large" FontFamily="{StaticResource FontAwesomeSolid}" TextColor="White" Grid.Row="1" Grid.Column="5" VerticalOptions="Center" HorizontalOptions="Center" Clicked="PhixserNumber" BackgroundColor="Red"/>
             </Grid>
         </StackLayout>

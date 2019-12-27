@@ -11,3 +11,4 @@ C:\Users\Oscar\Desktop\PhixserDef\PhixserDef\obj\Debug\netstandard2.0\PhixserDef
 C:\Users\Oscar\Desktop\PhixserDef\PhixserDef\obj\Debug\netstandard2.0\Form.xaml.g.cs
 C:\Users\Oscar\Desktop\PhixserDef\PhixserDef\obj\Debug\netstandard2.0\Page1.xaml.g.cs
 C:\Users\Oscar\Desktop\PhixserDef\PhixserDef\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Oscar\Desktop\PhixserDef\PhixserDef\obj\Debug\netstandard2.0\chat.xaml.g.cs

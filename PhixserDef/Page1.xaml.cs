@@ -50,16 +50,11 @@ namespace PhixserDef
 
 
         }
-        private async void OpenWhatsApp(object sender, EventArgs e)
+        private void OpenWhatsApp(object sender, EventArgs e)
         {
-            try
-            {
-                Chat.Open("+17862669306", "I'm interested in Phixser Solutions LLC Services");
-            }
-            catch (Exception ex)
-            {
-                await DisplayAlert("Error", ex.Message, "OK");
-            }
+            chat myHomePage = new chat();
+            NavigationPage.SetHasNavigationBar(myHomePage, false);
+            Navigation.PushModalAsync(myHomePage);
         }
         private void PhixserNumber(object sender, EventArgs e)
         {
